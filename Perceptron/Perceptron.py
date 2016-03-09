@@ -1,3 +1,9 @@
+"""
+Credits on the algorithm for the people who wrote this paper: https://page.mi.fu-berlin.de/rojas/neural/chapter/K4.pdf
+
+Implemented by Felipe Bormann
+"""
+
 import numpy as np
 
 class Perceptron:
